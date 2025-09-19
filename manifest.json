@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "App",
+  "name": "Y2table",
+  "short_name": "Y2-Table",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#1e1e2f",
